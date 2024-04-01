@@ -1,5 +1,6 @@
 ## 2023 HealthCare AI Competetion SNUDH 
 ### Oral image synthesis data for artificial intelligence learning project
+# * 최종성적 - 3rd ( 우수상 ) *
 
 ![2023 헬스케어 AI 경진대회(포스터](https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)
 
@@ -83,4 +84,4 @@
 - 주관: 서울대학교 치과병원
 - 후원: 한국지능정보사회진흥원
 
-### ** 최종성적 - 3rd ( 우수상 ) ** 
+
