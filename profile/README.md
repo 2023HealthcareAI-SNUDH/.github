@@ -1,6 +1,7 @@
 ## 2023 HealthCare AI Competetion SNUDH 
 ### Oral image synthesis data for artificial intelligence learning project
 
+**최종성적 - 3rd ( <font color="blue">우수상</font> )**
 # <font color="blue"> 최종성적 - 3rd ( 우수상 )</font>
 | Model            | Params | f1-score |
 |------------------|--------|----------|
