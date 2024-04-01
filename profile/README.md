@@ -2,22 +2,25 @@
 ### Oral image synthesis data for artificial intelligence learning project
 
 # * 최종성적 - 3rd ( 우수상 ) *
-Model  | Params | f1-score
-EfficinetNet B0 | 5.3M | 0.98882171429196
-EfficientNet B3 | 12M | 0.9973782689708769
+| Model            | Params | f1-score |
+|------------------|--------|----------|
+| EfficientNet B0 | 5.3M   | 0.9888   |
+| EfficientNet B3 | 12M    | 0.9974   |
 
-Balanced Train Dataset
-Decayed (1): 17000
-Not Decayed (0): 17000
+- **Dataset Information:**
+  - Balanced Train Dataset
+    - Decayed (1): 17000
+    - Not Decayed (0): 17000
 
-Requirements
-python = 3.7
-pytorch = 1.12.1
-torchvision = 0.13.1
-torchaudio = 0.12.1
-cudatoolkit = 11.3
-scikit-learn = 1.3.2
-pandas = 2.1.4
+- **Requirements:**
+  - Python: 3.7
+  - PyTorch: 1.12.1
+  - Torchvision: 0.13.1
+  - Torchaudio: 0.12.1
+  - CudaToolkit: 11.3
+  - Scikit-learn: 1.3.2
+  - Pandas: 2.1.4
+
 
 
 ![2023 헬스케어 AI 경진대회(포스터](https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)
