@@ -2,8 +2,7 @@
 ### Oral image synthesis data for artificial intelligence learning project
 
 ---
-SampleDataset - SNUDH 
-26 png files, 26 json files
+Dataset - SNUDH 
 ---
 Decayed_image (*Green - noramal, Red - abnormal)
 ![front_10000](https://github.com/2023HealthcareAI-SNUDH/Sampledata/assets/130969566/4e06bedc-d46f-4a22-8117-a389aa1babb2) |![front_10000_segmented](https://github.com/2023HealthcareAI-SNUDH/Sampledata/assets/130969566/847a420e-25f8-4747-8813-31ff5a375e6f)
