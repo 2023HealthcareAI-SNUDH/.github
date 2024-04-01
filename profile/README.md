@@ -10,7 +10,7 @@
 - **Dataset Information:**
   - Balanced Train Dataset
     - Decayed (1): 17000
-    - Not Decayed (0): 17000
+    - Not Decayed (0): 10000
 
 - **Requirements:**
   - Python: 3.7
